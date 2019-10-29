@@ -5,6 +5,7 @@
 *.so
 *.dylib
 echojson
+echojson-linux-amd64
 
 # Test binary, build with `go test -c`
 *.test
